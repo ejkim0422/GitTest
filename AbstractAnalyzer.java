@@ -11,7 +11,12 @@ public void indicator(){
 
 }
 
+
 //master function
 public void master() {
 
 }
+
+//add sub branch
+public void sub_branch(){}
+
