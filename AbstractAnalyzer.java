@@ -10,3 +10,6 @@ public abstract class AbstractAnalyzer {
 public void indicator(){
 
 }
+
+//add sub branch
+public void sub_branch(){}
