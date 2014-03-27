@@ -10,3 +10,8 @@ public abstract class AbstractAnalyzer {
 public void indicator(){
 
 }
+
+//master function
+public void master() {
+
+}
